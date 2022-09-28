@@ -1,0 +1,136 @@
+body{
+    background:rgb(202,210,197);
+   width: 90rem;
+    
+}
+
+
+
+
+header{
+    background:rgb(47,61,70);
+    height: 80px;
+    width: 100%;
+}
+
+i{
+    color: white;
+    font-size: 40px;
+    padding-top: 10px;
+    
+}
+
+h5{
+font-size: x-large;
+    color: white;
+    letter-spacing: 4px;
+     width: 50%;
+     padding-top: 20px;
+    
+}
+.containe{
+    display: flex;
+width: 100vw;
+height: 100vh;
+
+
+
+}
+.parent1{
+    background-color: transparent;
+    width: 35%;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.side{
+    width: 300px;
+    height: 500px;
+    background-color:#353535;
+    border-radius: 20px;
+
+   
+}
+
+
+.parent2{
+    width: 65%;
+    height: 500px;
+    background-color: transparent;
+    
+
+}
+
+
+
+#search1{  
+    display: flex;
+    padding-top: 10px;
+    width: 100%;
+    height:140px;
+    justify-content: center;
+    align-items: center;
+
+}
+#search{
+    width: 70%;
+    height: 50px;
+    border-radius: 10px;
+    background-color:#353535;
+    font-weight: bold;
+    font-size: larger;
+    font-family: Arial, sans-serif;
+    color: rgb(202,210,197);
+    letter-spacing: 2px;
+
+
+}
+.middle{ 
+    display: flex;
+    width: 95%;
+    height:220px ;
+    padding-left: 5px;
+    background-color: transparent;
+   justify-content: center;
+   align-items: center;
+   justify-content: space-between
+}
+.box1{
+    display: flex;
+    width: 220px;
+    height: 150px;
+    background-color:#353535;
+    border-radius: 15px;
+}
+.box2{ 
+    width: 220px;
+    height: 150px;
+    background-color:#353535;
+    border-radius: 15px;
+}.box3{
+    width: 220px;
+    height: 150px;
+    background-color:#353535;
+    border-radius: 15px;
+}
+.last{ 
+    display: flex;
+    margin-top: 10px;
+    width: 95%;
+    height: 200px;
+    padding-left: 5px;
+    background-color: transparent;
+    justify-content: center;
+    align-items: center;
+}
+.end{ 
+   
+    width: 100%;
+    height: 150px;
+    border-radius: 15px;
+    background-color:#353535;
+
+}
+  
